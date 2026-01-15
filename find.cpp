@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello, Water!";
+	std::cout << "Can't find it!";
 
 	std::cin.get();
 	return 0;
